@@ -1,0 +1,7 @@
+name             'chef_provider_map_bug'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures chef_provider_map_bug'
+long_description 'Installs/Configures chef_provider_map_bug'
+version          '0.1.0'
